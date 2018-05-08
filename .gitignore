@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Tool.SmtpTesterCore/bin
+/Tool.SmtpTesterCore/obj
+/.vs/Tool.SmtpTesterCore/v15/.suo
